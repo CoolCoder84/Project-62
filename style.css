@@ -1,0 +1,14 @@
+#myCarousel img {
+    height: 350px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+}
